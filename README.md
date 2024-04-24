@@ -1,0 +1,1 @@
+Basic CromTab script to warn players in game of server restart. Then to restart, copy the world file. Then Compress it into a tar file, ensuring that there is no more than 7 files for keeping storage needs down.
